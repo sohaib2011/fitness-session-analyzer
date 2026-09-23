@@ -73,7 +73,7 @@ I also used `@staticmethod` for `classify_intensity()` because it only uses the 
 
 ```
 git clone https://github.com/sohaib2011/fitness-session-analyzer.git
-cd fitness-sesion-analyzer
+cd fitness-session-analyzer
 python3 main.py
 ```
 
