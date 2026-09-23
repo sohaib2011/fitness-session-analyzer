@@ -1,0 +1,13 @@
+# Python bytecode cache - auto-generated, never needed in version control
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments, in case you use one locally
+venv/
+.venv/
+env/
+
+# Editor/OS junk
+.vscode/
+.DS_Store
